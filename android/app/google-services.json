@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "854054522162",
+    "project_id": "haversineapp",
+    "storage_bucket": "haversineapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854054522162:android:48208f736a41d7299b9b2b",
+        "android_client_info": {
+          "package_name": "com.example.hava"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_zx9CXYXeTYtRLOrRsNGwZm-JCOT4XXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854054522162:android:9d40601585e8c2f09b9b2b",
+        "android_client_info": {
+          "package_name": "com.example.haversine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_zx9CXYXeTYtRLOrRsNGwZm-JCOT4XXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
